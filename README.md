@@ -1,20 +1,22 @@
-## Hi, I'm Sandy 👋
+# Hi, I'm Sandy Yuliadi Pradana 👋
 
-🎓 Mathematics Graduate with focus on Deep Learning
-🤖 Interested in AI, Medical Imaging, and Data Science
+I am a Mathematics student focused on Data Analysis.
 
-## 🔬 Featured Project
+## 📊 What I Do
 
-**Breast Histopathology Image Classification**
+* Data Cleaning & Processing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Extracting insights from data
 
-* Macenko Normalization
-* ResNet101
-* WGAN-GP
-* Focus: Improving cancer detection accuracy
+## 🛠️ Tools
 
-## 🧠 Skills
+* Python (Pandas, NumPy)
+* Matplotlib & Seaborn
+* SQL (Basic)
+* Excel
 
-* Python
-* PyTorch & TensorFlow
-* Machine Learning & Deep Learning
-* Computer Vision
+## 📈 Projects
+
+* Customer Churn Analysis (Coming Soon)
+* Sales Data Analysis (Coming Soon)
